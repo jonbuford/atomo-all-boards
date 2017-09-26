@@ -19,3 +19,5 @@ _autosave-*
 # Exported BOM files
 *.xml
 *.csv
+# Excluding Production Silk Files
+**/proj_silk.pretty
