@@ -1,0 +1,244 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 2N7002
+D N-Channel MOSFET, SOT-23
+K N-Channel MOSFET Logic Level
+$ENDCMP
+#
+$CMP 2N7002E
+D Transistor N-MOSFET (general)
+K nmos n-mos n-mosfet transistor
+$ENDCMP
+#
+$CMP 74HC138
+D Decoder/Demultiplexer 1 x 3:8
+K Demux
+$ENDCMP
+#
+$CMP 74HC139
+D Decoder/Demultiplexer 1 x 2:4
+K Demux
+$ENDCMP
+#
+$CMP 74LVC244
+D Octal buffer; 3-state
+K Buffer 8-bit
+$ENDCMP
+#
+$CMP 74LVC245
+D Octal bus transceiver; 3-state
+K Bus Transceiver 8-bit
+$ENDCMP
+#
+$CMP 8_PIN_EPS
+D Mini-fit JR ATX 8-Pin Connector
+$ENDCMP
+#
+$CMP 8_PIN_EPS12V
+D Mini-fit JR ATX 8-Pin Connector (12V)
+$ENDCMP
+#
+$CMP 8_PIN_EPS12V_VIN
+D Molex Mini-fit Jr 8-Pin VIN 
+$ENDCMP
+#
+$CMP AT42QT1011
+D Single-key Touch Sensor Atmel
+K capacitive touch sensor ic
+$ENDCMP
+#
+$CMP BARREL_JACK_2_PIN
+D DC Barrel Jack
+K DC power barrel jack connector
+$ENDCMP
+#
+$CMP BAS16
+D BAS16 Diode
+$ENDCMP
+#
+$CMP BAV99
+D BAV99 Diode (200mA 70V)
+$ENDCMP
+#
+$CMP CONN_01X04
+D Connector, single row, 01x04
+K connector
+$ENDCMP
+#
+$CMP CONN_01X05
+D Connector, single row, 01x05
+K connector
+$ENDCMP
+#
+$CMP Crystal
+D Two pin crystal
+K Quartz, Ceramic, Filter, Resonator
+$ENDCMP
+#
+$CMP Crystal_4_Pin
+D Four pin crystal
+K Quartz, Resonator, Ceramic, Filter
+$ENDCMP
+#
+$CMP Crystal_4_Pin_1_3_Active
+D Four pin crystal (Pins 1 & 3 Active)
+K Quartz, Resonator, Ceramic, Filter
+$ENDCMP
+#
+$CMP DMG2305UX
+D P-CHANNEL ENHANCEMENT MODE MOSFET
+K pmos P-MOSFET
+$ENDCMP
+#
+$CMP DMMT5401
+D MATCHED PNP SMALL SIGNAL SURFACE MOUNT TRANSISTOR
+K DMMT5401 PNP MATCHED TRANSISTOR
+$ENDCMP
+#
+$CMP DMP1046UFDB
+D DUAL P-CHANNEL ENHANCEMENT MODE MOSFET
+K pmos P-MOSFET
+$ENDCMP
+#
+$CMP Diode_Bridge
+D Diode bridge
+K Graetz
+$ENDCMP
+#
+$CMP ESDA6V1BC6
+D Quad ESD Suppressor
+$ENDCMP
+#
+$CMP FDS2582
+D Transistor N-MOSFET
+K nmos n-mos n-mosfet transistor
+$ENDCMP
+#
+$CMP H2019FNL
+D Coilcraft 13W PoE Transformer
+K PoE Transformer
+F http://www.coilcraft.com/pdfs/poe_ep.pdf
+$ENDCMP
+#
+$CMP HR911105
+D RJ45 with transformer + leds HR911105
+K RJ45 Magnetics Hanrun
+$ENDCMP
+#
+$CMP KSZ8081RNA
+D 10BASE-T/100BASE-TX PHY with RMII
+K PHY RMII
+F PHY_10_100_Microchip_KSZ8081RNA_RND_Datasheet.pdf
+$ENDCMP
+#
+$CMP LXES2SBAA4-016
+D Quad ESD Suppressor
+$ENDCMP
+#
+$CMP Led_3_CLR_4-pin
+D 3-Color LED in a 4-pin package
+$ENDCMP
+#
+$CMP MK22FN512VLH12
+D 32 Bit Microcontroller, K22F USB Series, ARM Cortex-M4, 120 MHz, 512 KB, 128 KB, 64, LQFP
+K Cortex-M4 MCU 64-Pin
+$ENDCMP
+#
+$CMP MK64FN1M0VLQ12
+D K64F 144-Pin LQFP 120 MHz ARM® Cortex®-M4-based Microcontroller with FPU
+$ENDCMP
+#
+$CMP MK64FX512VLL12
+D K64F 100-Pin 120 MHz ARM® Cortex®-M4-based Microcontroller with FPU
+$ENDCMP
+#
+$CMP MK64FX512VMD12
+D K64F 144-Pin BGA 120 MHz ARM® Cortex®-M4-based Microcontroller with FPU
+$ENDCMP
+#
+$CMP MKL26Z128VFM4
+D ARM Cortex m0+ 32-Pin QFN with USB
+$ENDCMP
+#
+$CMP MOSFET-N_3-PIN
+D N-Channel MOSFET, SOT-23
+K N-Channel MOSFET Logic Level
+$ENDCMP
+#
+$CMP MP1470
+D Sync Buck Converter, 2A, 16V
+K Buck Converter
+$ENDCMP
+#
+$CMP OCX26N
+D OCX26N Expansion Header with Networking Connections
+$ENDCMP
+#
+$CMP OCX26N_Plug
+D OCX26N Expansion Plug with Networking Connections
+$ENDCMP
+#
+$CMP OCX28
+D OCX28 IO Module Header
+$ENDCMP
+#
+$CMP OCX64_Card_Edge
+D OCX64 2-Module Connector
+K OCX64 Connector
+$ENDCMP
+#
+$CMP OCX98_Card_Edge
+D OCX98 Card Edge and Connector Pin Configuration
+$ENDCMP
+#
+$CMP OSC
+D General Stand Alone Oscillator
+$ENDCMP
+#
+$CMP POE13P
+D Coilcraft 13W PoE Transformer
+K PoE Transformer
+F http://www.coilcraft.com/pdfs/poe_ep.pdf
+$ENDCMP
+#
+$CMP RJ45-NELTRON_MAG
+D RJ45 with transformer + leds Neltron Pin Config
+K RJ45
+F RJ-45_w_LEDs_w_magnetics_Datasheet_Neltron_7742S-8P8C-XXXX.pdf
+$ENDCMP
+#
+$CMP RJ45_W_SHIELD
+D RJ45 With SH Shield Pins
+$ENDCMP
+#
+$CMP SW_PBTN_2PIN
+D SPST-NO Pushbutton Switch (2-Pin)
+K switch
+$ENDCMP
+#
+$CMP SW_PBTN_4PIN
+D SPST-NO Pushbutton Switch (4-Pin)
+K switch
+$ENDCMP
+#
+$CMP Si5351C-B-GM
+D 8-Channel Clock Generator
+$ENDCMP
+#
+$CMP TPS23753
+D TI PoE IEEE 802.3 Interface and Converter Controller
+K PoE 802.3
+$ENDCMP
+#
+$CMP USB_B
+D USB Type B connector
+K connector USB USB_B
+$ENDCMP
+#
+$CMP microSD_Card
+D SD Card Reader
+K connector SD
+F http://portal.fciconnect.com/Comergent//fci/drawing/10067847.pdf
+$ENDCMP
+#
+#End Doc Library
